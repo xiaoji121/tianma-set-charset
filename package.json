@@ -1,0 +1,18 @@
+{
+    "name": "tianma-set-charset",
+    "description": "tianma set charset filter",
+    "keywords": [
+        "tianma",
+        "filter",
+        "charset"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xiaoji121/tianma-set-charset.git"
+    },
+    "author": "xiaoji121 <dong.fly.ming@gmail.com>",
+    "version": "0.1.0",
+    "dependencies": {
+
+    }
+}
